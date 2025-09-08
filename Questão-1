@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1 style="color:hotpink; font-family:Verdana, Geneva, Tahoma, sans-serif; font-size: 200%;">Rafaella Neri</h1>
+    <h2 style="color: hotpink; font-family:consolas; font-size: 200%;">Desenvolvedora Web</h2>
+    <p style="color:black; font-family:Arial; font-size: 120%; border: 2px solid grey; padding: 20px; margin: 50px;">Olá! Meu nome é Rafaella e sou apaixonada por tecnologia e desenvolvimento web. Tenho experiência em HTML, CSS e JavaScript e outras tecnologias modernas. 
+        Adoro criar páginas bonitas e funcionais que proporcionam uma ótima experiência ao usuário</p>
+        <p style="color: hotpink; font-family:Arial; font-size:120%">Minha Matrícula: 202508201135</p>
+
+  
+</body>
+</html>
