@@ -1,0 +1,17 @@
+<h1 style="color:hotpink;">Formulário</h1>
+
+<form style="width: 100%; border-collapse: collapse; font-family: Arial, Helvetica, sans-serif;">
+    <label for="nome" style="display: block; margin-bottom: 5px; font-weight: bold;">Nome:</label>
+    <input type="text" id="nome" name="nome"
+      style="width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+
+      <label for="email" style="display: block; margin-bottom: 5px; font-weight: bold;">E-mail:</label>
+    <input type="text" id="email" name="email"
+      style="width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+      
+       <label for="email" style="display: block; margin-bottom: 5px; font-weight: bold;">Senha:</label>
+    <input type="text" id="senha" name="senha"
+      style="width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+      
+      <button type="submit" style="margin-top: 10px;">Enviar</button>
+</form>
