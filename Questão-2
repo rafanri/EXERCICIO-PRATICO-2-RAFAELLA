@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <table style="width: 100%; border-collapse: collapse; font-family: Arial, Helvetica, sans-serif;">
+<tr style="background-color: #F4b4d3; color: white; font-weight: bold;">
+    <th style="border: 1px solid #ccc; padding: 10px; text-align: left;">Produto</th>
+    <th style="border: 1px solid #ccc; padding: 10px; text-align: left;">Descrição</th>
+    <th style="border: 1px solid #ccc; padding: 10px; text-align: left;">Valor (R$)</th>
+</tr>
+<tr style="background-color: white;">
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">Notebook</td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">Computador portátil com 8GB de RAM e 256GB SSD</td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">3.500,00</td>
+<tr style="background-color: white;">
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">Monitor</td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">Monitor de 24 polegadas com resolução Full HD</td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">800,00</td>
+</tr>
+
+<tr style="background-color: white;">
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">Mouse</td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">Mouse sem fio com sensor óptico de alta precisão</td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">120,00</td>
+
+</body>
+</html>
